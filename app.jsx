@@ -1,3 +1,5 @@
+//react
+
 let PLAYERS = [
   {
     name: "Jim Hoskins",
